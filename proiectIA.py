@@ -56,6 +56,6 @@ for i in range(len(test_data)):
      f.write('\n')
 f.close()
 
-from sklearn.metrics import accuracy_score
+#from sklearn.metrics import accuracy_score
 # Evaluate accuracy
 #print(accuracy_score(y_test, y_pred))
